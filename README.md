@@ -10,7 +10,7 @@ It allows the retention of new information and omits the reality of losing infro
 
 In creating this project, I learnt how to use and the importance of being precise in using GitHub. It allowed me to exercise debugging; no code but issues between my branches in GitHub, the terminal and commiting the correct branches always. It has allowed me to further practice but instilled extra vigilance in my work. Sounds strange but I very much enjoyed the problems I encountered which were only sweeter when I figured out how to make this right. I also learnt what the developer role entails and putting this in action as it's something I've not done before. The role is far greater than just using VS Code and learning various languages/programs.
 
-In creating this project, I'd love to add more notes in the respective sections as well a feature for users to test their knowledge by having a quiz or game. This would be a great addition to consolidate learning and seek opportunities for further reading, learning etc.
+In creating this project, I'd love to add more notes in the respective sections. In addition, a feature for users to test their knowledge by having a quiz or game. This would be a great addition to consolidate learning and seek opportunities for further reading, learning etc.
 
 
 ## Installation
